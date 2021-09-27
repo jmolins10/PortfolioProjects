@@ -1,3 +1,5 @@
+--The below Queries were pulled from the Covid world data available from ourworldindata.org, the purpose is to illustrate skills in Data Exploration with SQL.
+
 SELECT *
 FROM PortfolioProject..CovidDeaths
 
